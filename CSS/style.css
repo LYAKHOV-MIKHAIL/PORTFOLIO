@@ -1,0 +1,25 @@
+body {
+	background-color:#7FFF00;
+}
+
+button {
+	width:35px;
+}
+
+h1 {
+	color:#32CD32;
+}
+
+p {
+	font-size: 24pt;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+
+td, th {
+	border: 1px solid black;
+	
+}
